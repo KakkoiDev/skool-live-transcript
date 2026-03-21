@@ -1,0 +1,5 @@
+node_modules/
+vendor/
+live-transcript/*.wav
+live-transcript/*.jsonl
+.cookies.json
