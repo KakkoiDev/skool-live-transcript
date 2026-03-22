@@ -2,4 +2,6 @@ node_modules/
 vendor/
 live-transcript/*.wav
 live-transcript/*.jsonl
+live-transcript/*.log
+live-transcript/*.txt
 .cookies.json
