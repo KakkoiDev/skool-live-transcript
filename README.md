@@ -65,11 +65,11 @@ The bot leaves the call after being the only participant for 60 seconds. Press `
 Transcripts are saved in `live-transcript/`:
 
 ```
-[00:00:12] Karell Ste-Marie:
+[00:00:12] John Doe:
   Welcome everyone to today's Q&A.
 
-[00:00:45] Cyril Antoni:
-  Hey Karell, I have a question about...
+[00:00:45] Jane Doe:
+  Hey John, I have a question about...
 ```
 
 Audio (WAV) and speaker logs (JSONL) are also saved for manual re-processing.
